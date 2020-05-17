@@ -9,6 +9,8 @@ You can give default= and key=
 Key will a function that can be appleid to the list of arguments, based on the 
 result the arguments will be sorted. 
 
+
+Similarly min function also works
 """
 
 lst = [2, 4, 5, 7, 8, 25]
